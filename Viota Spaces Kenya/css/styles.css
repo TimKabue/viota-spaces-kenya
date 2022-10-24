@@ -1,0 +1,165 @@
+/* Section: Top */
+#top{
+  background-image: url("../images/cool-background.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+.section-row{
+  padding: 0 10rem;
+  text-align: center;
+}
+
+.center{
+  padding-top: 15%;
+}
+
+.color-lg-blue{
+  background-color: #1CB2F5;
+}
+/* End of Section: Top */
+
+/* Navbar section */
+.navbar-squeeze{
+  margin: 0 5%;
+  background-color: #0D67B5;
+}
+
+/* End of Navbar section */
+
+/* Carousel section */
+
+.carousel-img{
+  object-fit: cover;
+  height: 100vh;
+  width: 100%;
+  /* object-position: center;
+  overflow: hidden; */
+}
+
+/* End of Carousel section */
+
+/* Pricing section */
+.pricing-h1{
+  text-align: center;
+  margin: 1% 0;
+}
+
+.pricing-card{
+  width: 18rem;
+  margin: 0 auto;
+  padding: 1%;
+}
+
+.pricing-li-hidden{
+  visibility: hidden;
+}
+
+/* End of Pricing Section */
+
+/* Location section */
+#location{
+  background-color: #e3f2fd;
+}
+
+.location-h1{
+  margin: 1% 0 1% 0;
+  text-align: center;
+}
+
+.location-googleMap{
+  text-align: center;
+}
+
+iframe{
+  width: 75%;
+  height: 75vh;
+}
+
+/* End of Location section */
+
+/* Policies section */
+.policies-h1{
+  margin: 1% 0 1% 0;
+  text-align: center;
+}
+/* End of Policies section */
+
+/* Contracts */
+#contracts{
+  background-color: #e3f2fd;
+}
+
+.contracts-h1{
+  text-align: center;
+  margin: 1% 0;
+}
+
+.contracts-btn-right{
+  /* margin-left: 18rem;
+  margin-bottom: 3%; */
+  padding: 2.5rem 5rem;
+}
+
+.contracts-btn-left{
+  /* margin-right: 18rem;
+  margin-bottom: 3%; */
+  padding: 2.5rem 5rem;
+}
+
+/* End of Contracts */
+
+/* Tenancy section */
+.tenancy-h1{
+  text-align: center;
+}
+
+.tenancy-p{
+  text-align: center;
+  font-size: 1.5rem;
+  padding: 0 1rem;
+}
+
+/* End of Tenancy section */
+
+/* Contacts */
+#contacts{
+  background-color: #0D67B5;
+}
+
+.contacts-h1{
+  text-align: center;
+  color: #fff;
+}
+
+.contacts-img{
+  height: 25rem;
+  width: 25rem;
+}
+
+.contacts-h1-display{
+  color: #fff;
+  text-align: center;
+}
+
+.contacts-a{
+  color: #fff;
+}
+
+.contacts-email{
+  color: #fff;
+}
+
+/* End of Contacts */
+
+/* Attributes */
+#attributes{
+  background-color: black;
+}
+
+.attributes-p-title{
+  text-align: center;
+  color: #fff;
+}
+/* End of Attributes */
